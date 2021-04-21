@@ -1,7 +1,7 @@
 # face_recognition_project
-  our goal of this project is to realize the following pipline : face detection  ,then  recognition of the faces matching them to the company employees ,next come  deployment step , targeting face recognition system on  real time .
+    our goal of this project is to realize the following pipline : face detection  ,then  recognition of the faces matching them to the company employees ,next come  deployment step , targeting face recognition system on  real time .
 
-1  Choosing two models one for face detection and , and the second for face recognition :
+1  Choosing two models ,one for face detection and the second for face recognition :
   we test and compare the result of inference using different pretrained deep learning models , than we choose the best one in terms of accuracy and required time to infer one frame.
 
 2  Deploy models :
